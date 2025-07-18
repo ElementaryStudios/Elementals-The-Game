@@ -38,3 +38,7 @@ El jugador se embarca en una aventura a través de un mundo perdido, dominado po
 ### 📂 Cómo jugar
 
 > Actualmente el juego se encuentra en una versión temprana. La documentación de instalación y ejecución estará disponible próximamente.
+
+### ⚠️ Advertencia
+
+> Este juego es propiedad de [Elementary Studios]. No está autorizado su uso comercial, copia o redistribución sin permiso.
